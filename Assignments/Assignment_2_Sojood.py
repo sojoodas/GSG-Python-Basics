@@ -60,4 +60,4 @@ if can_join:
 else:
     print("The student cannot join the competition")
 
-#DONE_SOJOOD :)
+#DONE_SOJOOD_ABUSAADA :)
