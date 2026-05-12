@@ -30,10 +30,10 @@ if english >= 50:
 else:
     print("English is Fail")
 
-print ("========================================")    
+print("========================================")    
 
 final_average = (math + science + history + geography + english) / 5
-print (f"Final average percentage is {final_average}%")
+print(f"Final average percentage is {final_average}%")
 
 if final_average >= 85:
     print("Final Grade is Excellent")
@@ -50,7 +50,7 @@ if final_average >= 50 and final_average < 65:
 if final_average < 50:
     print("Final Grade is Fail")
 
-print ("========================================") 
+print("========================================") 
 
 high_average = final_average >= 85
 can_join = (high_average and math >= 80) or (not high_average and math >= 90)
