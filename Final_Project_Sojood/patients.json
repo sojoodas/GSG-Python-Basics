@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Ahmad",
+        "age": 25,
+        "phone": "0599999999",
+        "symptoms": [
+            "Headache",
+            "fever"
+        ],
+        "visits": [
+            {
+                "date": "2026-06-21",
+                "doctor": "Dr. Ahmad",
+                "note": "Patient has mild fever",
+                "advice": "Rest and drink fluids"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sara Yousef",
+        "age": 30,
+        "phone": "0588888888",
+        "symptoms": [
+            "Back pain"
+        ],
+        "visits": []
+    },
+    {
+        "id": 3,
+        "name": "Ali Mohammad",
+        "age": 20,
+        "phone": "0577777777",
+        "symptoms": [
+            "Flu",
+            "cough"
+        ],
+        "visits": []
+    }
+]
